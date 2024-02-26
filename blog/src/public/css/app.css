@@ -1,5 +1,8 @@
-h1 {
-  color: blue; }
+.card-course-item {
+  margin-top: 20px; }
 
-h2 {
-  color: green; }
+.user-avatar {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  margin-right: 4px; }
